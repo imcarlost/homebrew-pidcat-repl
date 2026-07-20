@@ -2,7 +2,7 @@ class PidcatRepl < Formula
   desc "Colored logcat filtered by application package, with an interactive filter UI"
   homepage "https://github.com/imcarlost/pidcat-repl"
   url "https://github.com/imcarlost/pidcat-repl/archive/refs/tags/v2.2.0.tar.gz"
-  sha256 "1ff634bad5efc445a406491a8f73863bcfd9590524079dd11cbe5a3d0d354d97"
+  sha256 "1ad8d52202904a90d1b72364153eed3fe4c775e7d97704dab310778fec813320"
   license "Apache-2.0"
 
   depends_on "python3"
